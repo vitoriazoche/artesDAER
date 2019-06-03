@@ -1,14 +1,14 @@
 ### Caminhões do sistema - dia 03/06/2019
 
 ```html
-<h5> Utilizando PNG:</h5>
+<!-- Utilizando PNG: -->
 <img src="png/caminhao.png" alt="Logo" />
 <img src="png/caminhao-prancha.png" alt="Logo" />
 <img src="png/caminhao-romeuejulieta.png" alt="Logo" />
 <img src="png/caminhao-trator.png" alt="Logo" />
 ```
 ```html
-<h5> Utilizando JPEG:</h5>
+<!-- Utilizando JPEG: -->
 <img src="jpg/caminhao.jpg" alt="Logo" />
 <img src="jpg/caminhao-prancha.jpg" alt="Logo" />
 <img src="jpg/caminhao-romeuejulieta.jpg" alt="Logo" />
